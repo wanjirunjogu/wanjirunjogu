@@ -1,6 +1,7 @@
 ### Hi there 👋
 <p>
-I am Mary Wanjiru a passionate and tech enthusiast in the field of Artificial Intelligence , Machine Learning  Deep learning :rocket:
+I am Mary Wanjiru a passionate and tech enthusiast in the field of Artificial Intelligence , Machine Learning and  Deep learning :computer:
+:
 
 </p>
 <center>
